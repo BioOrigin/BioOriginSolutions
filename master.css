@@ -14,13 +14,13 @@
 .hero {
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 0.5em;
-    padding: 280px 0 40px 0; 
+    padding: 300px 0 40px 0; 
     color: white;
 }
 
 .subhero {
     letter-spacing: 0.2em;
-    padding-bottom: 250px;
+    padding-bottom: 350px;
     color: whitesmoke;
 }
 
