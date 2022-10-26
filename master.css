@@ -47,6 +47,10 @@ nav a {
     font-weight: 200;
 }
 
+.servizi-no-underline {
+    text-decoration: none;
+}
+
 @media (max-width: 720px) {
     .carte{
         height: 500px !important;
